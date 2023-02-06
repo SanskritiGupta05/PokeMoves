@@ -3,7 +3,7 @@ document.getElementById('getApi').addEventListener('click', getApi);
 function getApi() {
     var PokeName = document.getElementById('pokeName').value;
 console.log(PokeName);
-// const url = `http://api.weatherapi.com/v1/current.json?key=${apiId}&q=${CityName}&aqi=yes`;
+
 
 const url = `https://pokeapi.co/api/v2/pokemon/${PokeName}`;
 console.log(url);
