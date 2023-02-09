@@ -1,6 +1,8 @@
-## ⚡PokeMoves:
+## ⚡PokeMoves: 
 
-This is a project made with public API [Pokemon API](https://pokeapi.co/).
+`for Keploy Fellowship Task - 3`
+
+This is a project made with public API [Pokemon API](https://pokeapi.co/). 
 
 It fetches the <b>popular</b> moves of a pokemon -> entered by the user -> and then display them as Output!
 
